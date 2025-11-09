@@ -1,0 +1,58 @@
+Perfect! Here's a personalized Cloud + DevOps learning path using your Pluralsight subscription. This is designed to take you from foundational skills to advanced expertise over the next few months.
+
+📅 Phase 1: Month 1 – Cloud & DevOps Foundations
+Goal: Build strong basics in Azure, Linux, Git, and scripting.
+🔹 Courses to Start:
+
+Azure Fundamentals (AZ-900)
+Linux Command Line Basics
+Git Fundamentals
+PowerShell Scripting for Beginners
+
+
+📅 Phase 2: Month 2 – Azure Administration & IaC
+Goal: Learn how to manage Azure resources and automate infrastructure.
+🔹 Courses to Take:
+
+Managing Azure Resources (AZ-104 prep)
+Terraform on Azure
+Bicep for Infrastructure as Code
+Azure Resource Manager (ARM) Templates
+
+
+📅 Phase 3: Month 3 – DevOps Tools & CI/CD
+Goal: Understand DevOps workflows and build pipelines.
+🔹 Courses to Explore:
+
+DevOps Fundamentals
+Azure DevOps Pipelines
+GitHub Actions for CI/CD
+Jenkins Essentials (optional)
+
+
+📅 Phase 4: Month 4 – Containers & Kubernetes
+Goal: Learn containerization and orchestration.
+🔹 Courses to Learn:
+
+Docker Deep Dive
+Kubernetes for Developers
+AKS (Azure Kubernetes Service) Basics
+Helm Fundamentals
+
+
+📅 Phase 5: Month 5+ – Monitoring, Security & Advanced DevOps
+Goal: Master cloud monitoring, security, and advanced DevOps practices.
+🔹 Courses to Master:
+
+Azure Monitor & Log Analytics
+Security in Azure (MFA, RBAC, Defender)
+Prometheus & Grafana (optional)
+DevOps Architect Path
+
+
+🧠 Bonus Tips:
+
+Take Pluralsight Skill IQ tests to track your progress.
+Bookmark and revisit labs and hands-on exercises.
+Share your learning journey on LinkedIn weekly.
+Push your scripts and projects to GitHub.
